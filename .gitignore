@@ -1,0 +1,7 @@
+.idea/
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+
+src/toolkit.egg-info/
